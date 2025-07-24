@@ -1,0 +1,7 @@
+# Create .gitignore file to exclude unnecessary files
+echo "venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db" > .gitignore
