@@ -1,5 +1,3 @@
-# Create README.md file
-cat > README.md << 'EOF'
 # AI Supply Chain Optimization System
 
 An intelligent agent system that optimizes supply chain operations by predicting disruptions, managing inventory, and automating procurement decisions.
@@ -87,16 +85,3 @@ python test_system.py
 - Advanced multi-agent negotiation systems
 - Blockchain supply chain transparency
 - Mobile dashboard for real-time monitoring
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙋‍♂️ Author
-
-[Your Name] - [Your GitHub Profile]
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-EOF
