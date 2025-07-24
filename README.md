@@ -21,16 +21,16 @@ An intelligent agent system that optimizes supply chain operations by predicting
 
 \`\`\`
 supplychain-ai/
-├── main.py              # Main application and API server
+├── main.py # Main application and API server
 ├── agents/
-│   ├── supplier_agent.py    # Supplier evaluation and selection
-│   └── inventory_agent.py   # Inventory optimization algorithms
+│ ├── supplier_agent.py # Supplier evaluation and selection
+│ └── inventory_agent.py # Inventory optimization algorithms
 ├── models/
-│   └── forecast_model.py    # Demand forecasting models
+│ └── forecast_model.py # Demand forecasting models
 ├── api/
-│   └── erp_mock.py         # ERP system simulation
+│ └── erp_mock.py # ERP system simulation
 └── data/
-    └── sample_data.csv     # Historical demand data
+└── sample_data.csv # Historical demand data
 \`\`\`
 
 ## 🚀 Quick Start
